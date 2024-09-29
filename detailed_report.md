@@ -18,8 +18,8 @@ Network engineers design and maintain computer networks, ensuring secure and eff
 - Understanding of cybersecurity practices.
 
 **Resources:**
-- [A Day in the Life of a Network Engineer](https://www.cio.com/article/243724/network-engineering-a-day-in-the-life.html)
-- [Getting Started in Network Engineering](https://www.netacad.com/careers/pathways-and-certifications)
+- [A Day in the Life of a Network Engineer](https://www.reddit.com/r/networking/comments/v5dyg/a_day_in_the_life_of_a_network_engineer/)
+- [Getting Started in Network Engineering](https://www.coursera.org/articles/network-engineer)
 
 ### **2. DevOps Engineering**
 
@@ -37,8 +37,8 @@ DevOps engineers streamline software development and operations through automati
 - Knowledge of cloud platforms (AWS, Azure).
 
 **Resources:**
-- [A Day in the Life of a DevOps Engineer](https://www.atlassian.com/devops/devops-engineer)
-- [How to Get Started in DevOps](https://www.springboard.com/blog/devops/how-to-become-a-devops-engineer/)
+- [A Day in the Life of a DevOps Engineer](https://www.xmatters.com/blog/a-day-in-the-life-of-a-devops-engineer)
+- [How to Get Started in DevOps](https://www.reddit.com/r/devops/comments/13cih85/how_to_become_devops_engineer_from_scratch/)
 
 ### **3. User Experience (UX) Design**
 
@@ -90,8 +90,8 @@ Data scientists analyze complex data sets to inform business decisions and strat
 - Knowledge of machine learning techniques.
 
 **Resources:**
-- [A Day in the Life of a Data Scientist](https://towardsdatascience.com/a-day-in-the-life-of-a-data-scientist-f4f3b1c5b4a8)
-- [How to Start a Career in Data Science](https://www.springboard.com/blog/data-science/how-to-become-a-data-scientist/)
+- [A Day in the Life of a Data Scientist](https://www.simplilearn.com/a-day-in-the-life-of-a-data-scientist-article)
+- [How to Start a Career in Data Science](https://www.simplilearn.com/tutorials/data-science-tutorial/how-to-become-a-data-scientist)
 
 ### **6. Cybersecurity**
 
@@ -107,8 +107,8 @@ Cybersecurity professionals protect systems from cyber threats and ensure data i
 - Understanding of ethical hacking principles.
 
 **Resources:**
-- [A Day in the Life of a Cybersecurity Analyst](https://www.cyberseek.org/pathway.html)
-- [How to Get Started in Cybersecurity](https://www.freecodecamp.org/news/how-to-get-started-in-cybersecurity/)
+- [A Day in the Life of a Cybersecurity Analyst](https://www.youtube.com/watch?v=yki0EnRox6s)
+- [How to Get Started in Cybersecurity](https://bau.edu/blog/how-to-start-a-career-in-cyber-security/#:~:text=While%20a%20bachelor's%20or%20master's,a%20successful%20career%20in%20cybersecurity)
 
 ### **7. Full Stack Development**
 
@@ -124,7 +124,7 @@ Full stack developers work on both front-end and back-end development for web ap
 - Familiarity with frameworks (React, Node.js).
 
 **Resources:**
-- [A Day in the Life of a Full Stack Developer](https://www.codecademy.com/resources/blog/day-in-the-life-full-stack-developer/)
+- [A Day in the Life of a Full Stack Developer](https://medium.com/@priyajoshi2437/what-its-like-to-be-a-full-stack-developer-a-day-in-my-life-bb90d5831ad6)
 - [How to Become a Full Stack Developer](https://www.springboard.com/blog/software-engineering/how-to-become-full-stack-developer/)
 
 ### **8. Cloud Computing**
@@ -141,7 +141,7 @@ Cloud computing professionals manage cloud infrastructure and services for organ
 - Familiarity with virtualization technologies.
 
 **Resources:**
-- [A Day in the Life of a Cloud Engineer](https://cloudacademy.com/blog/a-day-in-the-life-of-a-cloud-engineer/)
+- [A Day in the Life of a Cloud Engineer](https://www.reddit.com/r/ITCareerQuestions/comments/egcz9j/day_in_the_life_of_a_cloud_engineeraws_solution/)
 - [How to Start a Career in Cloud Computing](https://www.freecodecamp.org/news/how-to-start-a-cloud-computing-career/)
 
 ### **9. Blockchain Development**
@@ -158,7 +158,7 @@ Blockchain developers create decentralized applications using blockchain technol
 - Understanding of cryptographic principles.
 
 **Resources:**
-- [A Day in the Life of a Blockchain Developer](https://builtin.com/blockchain/blockchain-developer)
+- [A Day in the Life of a Blockchain Developer](https://www.geeksforgeeks.org/a-day-in-the-life-of-a-blockchain-developer/)
 - [How to Become a Blockchain Developer](https://algorand.co/learn/how-to-become-a-blockchain-developer)
 
 ### **10. Mobile App Development**
@@ -174,8 +174,8 @@ Mobile app developers create applications for mobile devices across various plat
 - Knowledge of mobile programming languages (Swift, Kotlin).
   
 **Resources:**
-- [A Day in the Life of a Mobile Developer](https://medium.com/swlh/a-day-in-the-life-of-a-mobile-developer-bf3f2b9b0a8f)
-- [How to Start Mobile App Development](https://developer.android.com/kotlin/get-started)
+- [A Day in the Life of a Mobile Developer](https://www.linkedin.com/pulse/day-life-app-developer-joni-ahmed/)
+- [How to Start Mobile App Development](https://www.reddit.com/r/learnprogramming/comments/12jkpmr/want_to_try_out_mobile_app_development_where_to/)
 
 ## **Extended Tech Roles Report**
 
@@ -197,9 +197,9 @@ Data analysts transform raw data into actionable insights, helping organizations
 - Familiarity with programming languages (e.g., Python or R) for data manipulation.
 
 **Resources:**
-- [A Day in the Life of a Data Analyst](https://www.linkedin.com/pulse/day-life-data-analyst-careeristlearning)
-- [How to Become a Data Analyst](https://www.simplilearn.com/tutorials/data-analytics-tutorial/how-to-become-a-data-analyst)
-- [Data Analytics Courses](https://www.datacamp.com/career-tracks/data-analyst)
+- [A Day in the Life of a Data Analyst](https://www.youtube.com/watch?v=uSTtLpstV-o)
+- [How to Become a Data Analyst](https://www.reddit.com/r/dataanalysis/comments/10onhl2/want_to_become_an_analyst_start_here/)
+- [How to Become a Data Analyst](https://www.ucd.ie/professionalacademy/resources/how-to-start-a-career-in-data-analytics-with-no-experience/)
 
 ### **12. Quality Assurance (QA) Engineer**
 
@@ -220,21 +220,3 @@ QA engineers ensure that products meet quality standards before launch. They con
 - [A Day in the Life of a QA Engineer](https://builtin.com/learn/careers/qa-engineer)
 - [How to Become a QA Engineer](https://www.freecodecamp.org/news/how-to-become-a-quality-assurance-engineer/)
 - [QA Testing Tools Overview](https://www.guru99.com/what-is-quality-assurance.html)
-
-## **Conclusion**
-
-This extended report provides insights into the roles of Data Analyst and Quality Assurance Engineer, highlighting their importance in today's tech landscape. Each role offers unique responsibilities and requires specific skill sets. The included resources serve as valuable guides for those interested in pursuing these career paths, offering practical advice on how to get started and succeed in these fields.
-
-Citations:
-[1] https://www.simplilearn.com/tutorials/data-analytics-tutorial/how-to-become-a-data-analyst
-[2] https://www.linkedin.com/pulse/day-life-data-analyst-careeristlearning
-[3] https://junocollege.com/blog/data-analyst-day-in-the-life/
-[4] https://www.datacamp.com/blog/how-to-become-a-data-analyst
-[5] https://builtin.com/learn/careers/qa-engineer
-[6] https://www.irishjobs.ie/careeradvice/data-analyst-job-description/
-[7] https://devmountain.com/blog/a-day-in-the-life-of-a-qa-engineer/
-[8] https://www.coursera.org/articles/how-to-become-a-data-analyst
-[9] https://www.datamation.com/careers/data-analytics-job-market/
-[10] https://365datascience.com/career-advice/data-analyst-job-outlook/
-[11] https://www.reddit.com/r/QualityAssurance/comments/vfxhki/what_does_a_typical_qa_day_look_like_in_your_field/
-
