@@ -218,5 +218,4 @@ QA engineers ensure that products meet quality standards before launch. They con
 
 **Resources:**
 - [A Day in the Life of a QA Engineer](https://builtin.com/learn/careers/qa-engineer)
-- [How to Become a QA Engineer](https://www.freecodecamp.org/news/how-to-become-a-quality-assurance-engineer/)
-- [QA Testing Tools Overview](https://www.guru99.com/what-is-quality-assurance.html)
+- [How to Become a QA Engineer](https://www.getbridged.co/role/qa-engineer)
